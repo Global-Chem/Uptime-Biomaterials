@@ -1,47 +1,35 @@
 # Change these first
-owner: Sulstice # Your GitHub organization or username, where this repository lives
-repo: Uptime-Bacteria # The name of this repository
+owner: Global-Chem # Your GitHub organization or username, where this repository lives
+repo: Uptime-Biomaterials # The name of this repository
 
 sites:
-  - name: European Molecular Biology Laboratory
-    url: https://www.ebi.ac.uk/
-  - name: DDBJ bioinformatics
-    url: https://www.ddbj.nig.ac.jp/services/index-e.html
-  - name: BROAD Institute
-    url: https://www.broadinstitute.org/data-software-and-tools
-  - name: ATCC
-    url: https://www.atcc.org/resources/application-notes/microbial-genome-databases
-  - name: Biocyc Genome Database
-    url: https://biocyc.org
-  - name: National Center for Bioinformatics Microbial Genome Database
-    url: https://www.ncbi.nlm.nih.gov/genome/microbes/
-  - name: Ensembl Bacteria
-    url: https://bacteria.ensembl.org/species.html
-  - name: EzBioCloud Public Genome
-    url: https://www.ezbiocloud.net/genome/list?tn=Root
-  - name: NIH Human Microbiome Project
-    url: https://www.hmpdacc.org/hmp/
-  - name: Microbial Genome Database
-    url: https://mbgd.nibb.ac.jp/
-  - name: JGI Genomes 
-    url: https://gold.jgi.doe.gov/
-  - name: Pseudomonas Genome Database
-    url: https://www.pseudomonas.com/
-  - name: Ecocyc
-    url: https://www.ecocyc.org/
-  - name: ECMDB
-    url: https://ecmdb.ca/
-  - name: Staphylococcus regulator RNA Database
-    url: http://srd.genouest.org/#
-  - name: Vibrio Cholera Genome Database
-    url: https://vibrio.biocyc.org/ 
+  - name: BluePHA
+    url: https://www.bluepha.bio/
+  - name: Biomaterials
+    url: https://cjbiomaterials.com/applications/markets-and-applications/#packaging
+  - name: Danimer Scientific 
+    url: https://danimerscientific.com/
+  - name: colorFABB
+    url: https://colorfabb.us/filaments/materials/pha-filaments
+  - name: Amazon
+    url: https://www.amazon.com/Entropic-EntropicTM-PHA-Pellets/dp/B0CQ8RHVKL?th=1
+  - name: Alibaba
+    url: https://www.alibaba.com/product-detail/Wholesale-pha-pellets-compostable-polyhydroxyalkanoate-100_1600983370537.html?spm=a2700.galleryofferlist.normal_offer.d_image.5cb77d018xgS8i
+  - name: Kaneka
+    url: https://www.kaneka.co.jp/en/
+  - name: Genecis Biosciences
+    url: https://www.genecis.co/
+  - name: Helian Polymers
+    url: https://shop.helianpolymers.com/products/enmat-y1000p-phbv-pellets?pr_prod_strat=e5_desc&pr_rec_id=0c982a07e&pr_rec_pid=8756646478152&pr_ref_pid=8773877236040&pr_seq=uniform
+  - name: Nature Plast
+    url: https://natureplast.eu/en/matiere/phas-polyhydroxy-alca
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: bacteriadb.com
-  name: Bacteria Database Statuses
-  introTitle: "Website Status of Bacteria Databases"
+  # cname: bacteriadb.com
+  name: Biomaterials Packaging Statuses
+  introTitle: "Website Status of Biomaterials Databases"
   introMessage: Welcome to the endpoint monitor of live databases. 
   navbar:
     - title: Status
